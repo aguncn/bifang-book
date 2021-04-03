@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f21b27d1-cc5a-4b0b-964c-92a8499d0bde" name="Default Changelist" comment="" />
+    <list default="true" id="f21b27d1-cc5a-4b0b-964c-92a8499d0bde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../bifang-ch5/bifangback/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bifang-ch5/bifangback/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bifang-ch5/bifangback/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bifang-ch5/bifangback/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bifang-ch7/bifangback/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bifang-ch7/bifangback/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bifang-ch7/bifangback/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bifang-ch7/bifangback/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +40,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1p1Mdfsd7gsFBSj3BuTfh71rVBq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -45,8 +52,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bifang/bifangback" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Python.runserver">
     <configuration name="runserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -174,6 +181,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="202" y="79" width="1141" height="733" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617287330141">
       <screen x="0" y="0" width="1536" height="824" />
@@ -199,10 +211,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1510" height="264" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617411191432" />
-    <state x="138" y="0" key="SettingsEditor" timestamp="1617326566150">
+    <state x="138" y="0" key="SettingsEditor" timestamp="1617440410794">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="138" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617326566150" />
+    <state x="138" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617440410794" />
     <state x="395" y="78" width="811" height="668" key="find.popup" timestamp="1616038325482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

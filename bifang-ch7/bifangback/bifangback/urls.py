@@ -5,6 +5,8 @@ from django.urls import include
 from rest_framework import permissions
 from drf_yasg.views import get_schema_view
 from drf_yasg import openapi
+from account import jwt_views
+from .views import index
 
 schema_view = get_schema_view(
    openapi.Info(
@@ -20,8 +22,12 @@ schema_view = get_schema_view(
 )
 
 urlpatterns = [
+    path('', index, name='index'),
     path('admin/', admin.site.urls),
     path('api-auth/', include('rest_framework.urls')),
+    path('jwt_auth/', jwt_views.obtain_jwt_token),
+    path('refresh_jwt_auth/', jwt_views.refresh_jwt_token),
+    path('verify_jwt_auth/', jwt_views.verity_jwt_token),
 ]
 
 urlpatterns += [
