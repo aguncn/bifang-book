@@ -20,7 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f21b27d1-cc5a-4b0b-964c-92a8499d0bde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bifang-ch6/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../bifang-ch6/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bifang-ch7/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../bifang-ch7/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bifang-ch8/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../bifang-ch8/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bifang-ch9/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../bifang-ch9/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
