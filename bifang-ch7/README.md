@@ -1,2 +1,2 @@
-# bifang-ch6
-bifang-ch6 书籍第六章配置代码
+# bifang-ch7
+bifang-ch7 书籍第七章配置代码
